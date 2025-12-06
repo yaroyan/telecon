@@ -1,0 +1,5 @@
+base_dir: "./downloads"
+download_limit: 5
+max_concurrent: 1
+part_size_mb: 16
+bot_username: "example_bot"
